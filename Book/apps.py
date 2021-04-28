@@ -6,3 +6,4 @@ class BookConfig(AppConfig):
     name = 'Book'
 
 
+print("django is a super")

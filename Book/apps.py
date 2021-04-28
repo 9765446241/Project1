@@ -6,8 +6,3 @@ class BookConfig(AppConfig):
     name = 'Book'
 
 
-
-hiii
-
-hello
-how r u?
